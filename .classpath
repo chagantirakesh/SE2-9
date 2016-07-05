@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CouseScheduling/src"/>
+	<classpathentry kind="lib" path="CouseScheduling/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/poi-ooxml-schemas-3.7-beta1.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/xmlbeans-2.5.0.jar"/>
+	<classpathentry kind="lib" path="CouseScheduling/xmlbeans-xmlpublic-2.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CouseScheduling/bin"/>
+</classpath>
